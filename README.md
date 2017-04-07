@@ -1,5 +1,2 @@
 # hello-world
-
-Hi I like gethub!
-
-who am i
+Just another repository
